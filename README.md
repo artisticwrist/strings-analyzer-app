@@ -228,4 +228,7 @@ Http::post('http://localhost:8000/strings', ['value' => 'deed']);
 
 * Basic validation is in place.
 * Duplicate strings are rejected (409).
+
+##postman documentation
+https://documenter.getpostman.com/view/29651789/2sB3QNp8Wb
 ---
